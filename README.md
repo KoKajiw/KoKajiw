@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🏫 I'm a M1 student majoring in Intelligence Science and Tecknology at the graduate school of Kyoto University.
+- 📚 I'm currently learning and researching NLP (Natural Language Processing) at [Kurohashi Lab](https://nlp.ist.i.kyoto-u.ac.jp/).
+- 💻 I enjoy taking part in competitive programming. (Atcoder: [KajiBro](https://atcoder.jp/users/KajiBro))
+
+For more details, please visit here.
+
 <!--
 **KoKajiw/KoKajiw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
