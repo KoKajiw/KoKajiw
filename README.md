@@ -3,6 +3,7 @@
 - 🏫 I'm a M1 student majoring in Intelligence Science and Tecknology at the graduate school of Kyoto University.
 - 📚 I'm currently learning and researching NLP (Natural Language Processing) at [Kurohashi Lab](https://nlp.ist.i.kyoto-u.ac.jp/).
 - 💻 I enjoy taking part in competitive programming. (Atcoder: [KajiBro](https://atcoder.jp/users/KajiBro))
+- If you would like to know more about me, please [click](https://kokajiw.github.io/) here.
 
 
 <!--
